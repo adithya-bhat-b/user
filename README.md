@@ -9,13 +9,13 @@ This application supports the [Getting Started with Python on Heroku](https://de
 Make sure you have Python 3.7 [installed locally](http://install.python-guide.org). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
 ```sh
-$ git clone https://github.com/heroku/python-getting-started.git
-$ cd python-getting-started
+$ git clone https://github.com/adithya-bhat-b/user.git
+$ cd user
 
-$ python3 -m venv getting-started
+$ python3 -m venv user
 $ pip install -r requirements.txt
 
-$ createdb python_getting_started
+$ createdb user
 
 $ python manage.py migrate
 $ python manage.py collectstatic
@@ -38,6 +38,12 @@ $ heroku open
 or
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## API
+
+Make http get request to :
+### http://usr-activity.herokuapp.com/api/v1/get-users 
+to get all user and user activity info.
 
 ## Documentation
 
