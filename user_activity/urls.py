@@ -18,5 +18,5 @@ from django.urls import path
 from user_activity import views 
 
 urlpatterns = [
-    path('get-users', views.get_users, name='user')
+    path('', views.get_users, name='user')
 ]

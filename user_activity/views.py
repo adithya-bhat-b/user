@@ -20,6 +20,7 @@ def get_users(request):
         all_users = []
         for user in users:
             all_users.append(_get_user_json(user))
+        t3 = time.time()
         ret_json = {
             "ok": True,
             "members": all_users

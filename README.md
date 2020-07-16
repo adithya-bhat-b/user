@@ -42,7 +42,7 @@ or
 ## API
 
 Make http get request to :
-### http://usr-activity.herokuapp.com/api/v1/get-users 
+### https://usr-activity.herokuapp.com
 to get all user and user activity info.
 
 ## Documentation

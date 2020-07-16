@@ -20,5 +20,5 @@ admin.autodiscover()
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/v1/', include('user_activity.urls'))
+    path('', include('user_activity.urls'))
 ]
