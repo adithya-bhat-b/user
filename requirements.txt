@@ -1,4 +1,4 @@
-django==2.0
+django==2.2.13
 gunicorn
 django-heroku
 pytz==2019.2
