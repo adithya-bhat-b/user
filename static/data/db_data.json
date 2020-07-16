@@ -1,0 +1,701 @@
+[
+    {
+        "id": "W012A3C10",
+        "real_name": "William",
+        "tz": "Africa/Asmara",
+        "activity_periods": [
+            {
+                "start_time": "2019-01-04 00:30",
+                "end_time": "2019-01-04 00:45"
+            },
+            {
+                "start_time": "2019-01-08 00:59",
+                "end_time": "2019-01-08 01:04"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C11",
+        "real_name": "John",
+        "tz": "Africa/Bamako",
+        "activity_periods": [
+            {
+                "start_time": "2019-01-09 01:26",
+                "end_time": "2019-01-09 01:42"
+            },
+            {
+                "start_time": "2019-01-12 02:07",
+                "end_time": "2019-01-12 02:12"
+            },
+            {
+                "start_time": "2019-01-14 02:29",
+                "end_time": "2019-01-14 02:35"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C12",
+        "real_name": "James",
+        "tz": "Africa/Bissau",
+        "activity_periods": [
+            {
+                "start_time": "2019-01-18 02:55",
+                "end_time": "2019-01-18 03:21"
+            },
+            {
+                "start_time": "2019-01-23 03:29",
+                "end_time": "2019-01-23 03:34"
+            },
+            {
+                "start_time": "2019-01-24 03:46",
+                "end_time": "2019-01-24 04:12"
+            },
+            {
+                "start_time": "2019-01-27 04:33",
+                "end_time": "2019-01-27 04:47"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C13",
+        "real_name": "Jacob",
+        "tz": "Africa/Blantyre",
+        "activity_periods": [
+            {
+                "start_time": "2019-01-31 04:56",
+                "end_time": "2019-01-31 05:15"
+            },
+            {
+                "start_time": "2019-02-01 05:33",
+                "end_time": "2019-02-01 05:54"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C14",
+        "real_name": "Christopher",
+        "tz": "Africa/Casablanca",
+        "activity_periods": [
+            {
+                "start_time": "2019-02-03 06:16",
+                "end_time": "2019-02-03 06:24"
+            },
+            {
+                "start_time": "2019-02-08 06:37",
+                "end_time": "2019-02-08 07:02"
+            },
+            {
+                "start_time": "2019-02-12 07:22",
+                "end_time": "2019-02-12 07:36"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C15",
+        "real_name": "Joshua",
+        "tz": "Africa/Djibouti",
+        "activity_periods": [
+            {
+                "start_time": "2019-02-16 07:51",
+                "end_time": "2019-02-16 08:18"
+            },
+            {
+                "start_time": "2019-02-21 08:37",
+                "end_time": "2019-02-21 08:48"
+            },
+            {
+                "start_time": "2019-02-23 09:09",
+                "end_time": "2019-02-23 09:35"
+            },
+            {
+                "start_time": "2019-02-28 10:01",
+                "end_time": "2019-02-28 10:15"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C16",
+        "real_name": "Michael",
+        "tz": "Africa/El_Aaiun",
+        "activity_periods": [
+            {
+                "start_time": "2019-03-05 10:23",
+                "end_time": "2019-03-05 10:35"
+            },
+            {
+                "start_time": "2019-03-07 10:54",
+                "end_time": "2019-03-07 11:08"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C17",
+        "real_name": "Jackson",
+        "tz": "Africa/Gaborone",
+        "activity_periods": [
+            {
+                "start_time": "2019-03-11 11:17",
+                "end_time": "2019-03-11 11:33"
+            },
+            {
+                "start_time": "2019-03-14 11:50",
+                "end_time": "2019-03-14 12:07"
+            },
+            {
+                "start_time": "2019-03-16 12:22",
+                "end_time": "2019-03-16 12:49"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C18",
+        "real_name": "Jayden",
+        "tz": "Africa/Juba",
+        "activity_periods": [
+            {
+                "start_time": "2019-03-20 13:01",
+                "end_time": "2019-03-20 13:25"
+            },
+            {
+                "start_time": "2019-03-24 13:54",
+                "end_time": "2019-03-24 14:13"
+            },
+            {
+                "start_time": "2019-03-28 14:38",
+                "end_time": "2019-03-28 14:58"
+            },
+            {
+                "start_time": "2019-03-31 15:10",
+                "end_time": "2019-03-31 15:28"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C19",
+        "real_name": "EthanJames",
+        "tz": "Africa/Kampala",
+        "activity_periods": [
+            {
+                "start_time": "2019-04-02 15:46",
+                "end_time": "2019-04-02 15:58"
+            },
+            {
+                "start_time": "2019-04-03 16:03",
+                "end_time": "2019-04-03 16:26"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C20",
+        "real_name": "Jacob",
+        "tz": "Africa/Khartoum",
+        "activity_periods": [
+            {
+                "start_time": "2019-04-06 16:42",
+                "end_time": "2019-04-06 17:08"
+            },
+            {
+                "start_time": "2019-04-08 17:38",
+                "end_time": "2019-04-08 17:49"
+            },
+            {
+                "start_time": "2019-04-09 18:11",
+                "end_time": "2019-04-09 18:37"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C21",
+        "real_name": "Michael",
+        "tz": "Africa/Kinshasa",
+        "activity_periods": [
+            {
+                "start_time": "2019-04-11 18:46",
+                "end_time": "2019-04-11 19:11"
+            },
+            {
+                "start_time": "2019-04-14 19:28",
+                "end_time": "2019-04-14 19:35"
+            },
+            {
+                "start_time": "2019-04-18 19:55",
+                "end_time": "2019-04-18 20:01"
+            },
+            {
+                "start_time": "2019-04-20 20:22",
+                "end_time": "2019-04-20 20:45"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C22",
+        "real_name": "Ethan",
+        "tz": "Africa/Libreville",
+        "activity_periods": [
+            {
+                "start_time": "2019-04-24 20:52",
+                "end_time": "2019-04-24 21:20"
+            },
+            {
+                "start_time": "2019-04-26 21:44",
+                "end_time": "2019-04-26 22:09"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C23",
+        "real_name": "Tyler",
+        "tz": "Africa/Malabo",
+        "activity_periods": [
+            {
+                "start_time": "2019-04-27 22:27",
+                "end_time": "2019-04-27 22:48"
+            },
+            {
+                "start_time": "2019-04-28 23:15",
+                "end_time": "2019-04-28 23:29"
+            },
+            {
+                "start_time": "2019-05-03 23:54",
+                "end_time": "2019-05-04 00:20"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C24",
+        "real_name": "Aiden",
+        "tz": "Africa/Maseru",
+        "activity_periods": [
+            {
+                "start_time": "2019-05-07 00:45",
+                "end_time": "2019-05-07 00:52"
+            },
+            {
+                "start_time": "2019-05-09 01:11",
+                "end_time": "2019-05-09 01:40"
+            },
+            {
+                "start_time": "2019-05-11 02:04",
+                "end_time": "2019-05-11 02:23"
+            },
+            {
+                "start_time": "2019-05-13 02:35",
+                "end_time": "2019-05-13 02:43"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C25",
+        "real_name": "Joshua",
+        "tz": "Africa/Monrovia",
+        "activity_periods": [
+            {
+                "start_time": "2019-05-14 03:12",
+                "end_time": "2019-05-14 03:29"
+            },
+            {
+                "start_time": "2019-05-17 03:36",
+                "end_time": "2019-05-17 04:05"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C26",
+        "real_name": "Joseph",
+        "tz": "Africa/Ndjamena",
+        "activity_periods": [
+            {
+                "start_time": "2019-05-19 04:16",
+                "end_time": "2019-05-19 04:26"
+            },
+            {
+                "start_time": "2019-05-24 04:53",
+                "end_time": "2019-05-24 04:59"
+            },
+            {
+                "start_time": "2019-05-26 05:17",
+                "end_time": "2019-05-26 05:30"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C27",
+        "real_name": "Noah",
+        "tz": "Africa/Sao_Tome",
+        "activity_periods": [
+            {
+                "start_time": "2019-05-28 05:53",
+                "end_time": "2019-05-28 06:02"
+            },
+            {
+                "start_time": "2019-05-30 06:22",
+                "end_time": "2019-05-30 06:49"
+            },
+            {
+                "start_time": "2019-06-04 06:54",
+                "end_time": "2019-06-04 07:22"
+            },
+            {
+                "start_time": "2019-06-09 07:51",
+                "end_time": "2019-06-09 07:56"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C28",
+        "real_name": "MatthewAnthony",
+        "tz": "Africa/Tripoli",
+        "activity_periods": [
+            {
+                "start_time": "2019-06-14 08:09",
+                "end_time": "2019-06-14 08:26"
+            },
+            {
+                "start_time": "2019-06-16 08:52",
+                "end_time": "2019-06-16 08:58"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C29",
+        "real_name": "Daniel",
+        "tz": "Africa/Tunis",
+        "activity_periods": [
+            {
+                "start_time": "2019-06-21 09:26",
+                "end_time": "2019-06-21 09:54"
+            },
+            {
+                "start_time": "2019-06-26 10:22",
+                "end_time": "2019-06-26 10:33"
+            },
+            {
+                "start_time": "2019-06-27 10:50",
+                "end_time": "2019-06-27 11:08"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C30",
+        "real_name": "Angel",
+        "tz": "America/Adak",
+        "activity_periods": [
+            {
+                "start_time": "2019-06-30 11:15",
+                "end_time": "2019-06-30 11:23"
+            },
+            {
+                "start_time": "2019-07-05 11:40",
+                "end_time": "2019-07-05 12:01"
+            },
+            {
+                "start_time": "2019-07-08 12:18",
+                "end_time": "2019-07-08 12:33"
+            },
+            {
+                "start_time": "2019-07-10 12:55",
+                "end_time": "2019-07-10 13:00"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C31",
+        "real_name": "Alexander",
+        "tz": "America/Araguaina",
+        "activity_periods": [
+            {
+                "start_time": "2019-07-11 13:08",
+                "end_time": "2019-07-11 13:36"
+            },
+            {
+                "start_time": "2019-07-15 13:54",
+                "end_time": "2019-07-15 14:04"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C32",
+        "real_name": "Jacob",
+        "tz": "America/Argentina/Jujuy",
+        "activity_periods": [
+            {
+                "start_time": "2019-07-20 14:11",
+                "end_time": "2019-07-20 14:34"
+            },
+            {
+                "start_time": "2019-07-25 14:54",
+                "end_time": "2019-07-25 15:12"
+            },
+            {
+                "start_time": "2019-07-30 15:34",
+                "end_time": "2019-07-30 16:01"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C33",
+        "real_name": "Michael",
+        "tz": "America/Argentina/Mendoza",
+        "activity_periods": [
+            {
+                "start_time": "2019-08-03 16:06",
+                "end_time": "2019-08-03 16:35"
+            },
+            {
+                "start_time": "2019-08-08 16:43",
+                "end_time": "2019-08-08 17:09"
+            },
+            {
+                "start_time": "2019-08-09 17:32",
+                "end_time": "2019-08-09 17:48"
+            },
+            {
+                "start_time": "2019-08-11 17:58",
+                "end_time": "2019-08-11 18:26"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C34",
+        "real_name": "Ethan",
+        "tz": "America/Argentina/Tucuman",
+        "activity_periods": [
+            {
+                "start_time": "2019-08-15 18:51",
+                "end_time": "2019-08-15 19:09"
+            },
+            {
+                "start_time": "2019-08-20 19:25",
+                "end_time": "2019-08-20 19:34"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C35",
+        "real_name": "Jose",
+        "tz": "America/Asuncion",
+        "activity_periods": [
+            {
+                "start_time": "2019-08-21 19:51",
+                "end_time": "2019-08-21 20:19"
+            },
+            {
+                "start_time": "2019-08-22 20:47",
+                "end_time": "2019-08-22 21:02"
+            },
+            {
+                "start_time": "2019-08-25 21:24",
+                "end_time": "2019-08-25 21:49"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C36",
+        "real_name": "Jesus",
+        "tz": "America/Bahia_Banderas",
+        "activity_periods": [
+            {
+                "start_time": "2019-08-29 22:18",
+                "end_time": "2019-08-29 22:46"
+            },
+            {
+                "start_time": "2019-09-01 22:57",
+                "end_time": "2019-09-01 23:20"
+            },
+            {
+                "start_time": "2019-09-05 23:30",
+                "end_time": "2019-09-05 23:39"
+            },
+            {
+                "start_time": "2019-09-10 00:06",
+                "end_time": "2019-09-10 00:11"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C37",
+        "real_name": "JoshuaEmma",
+        "tz": "America/Blanc-Sablon",
+        "activity_periods": [
+            {
+                "start_time": "2019-09-15 00:17",
+                "end_time": "2019-09-15 00:31"
+            },
+            {
+                "start_time": "2019-09-19 00:44",
+                "end_time": "2019-09-19 01:12"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C38",
+        "real_name": "Madison",
+        "tz": "America/Boise",
+        "activity_periods": [
+            {
+                "start_time": "2019-09-24 01:39",
+                "end_time": "2019-09-24 01:52"
+            },
+            {
+                "start_time": "2019-09-29 01:57",
+                "end_time": "2019-09-29 02:23"
+            },
+            {
+                "start_time": "2019-10-02 02:42",
+                "end_time": "2019-10-02 03:03"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C39",
+        "real_name": "Addison",
+        "tz": "America/Cambridge_Bay",
+        "activity_periods": [
+            {
+                "start_time": "2019-10-03 03:22",
+                "end_time": "2019-10-03 03:52"
+            },
+            {
+                "start_time": "2019-10-05 04:07",
+                "end_time": "2019-10-05 04:14"
+            },
+            {
+                "start_time": "2019-10-08 04:32",
+                "end_time": "2019-10-08 04:45"
+            },
+            {
+                "start_time": "2019-10-10 04:51",
+                "end_time": "2019-10-10 05:08"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C40",
+        "real_name": "Ava",
+        "tz": "America/Cayenne",
+        "activity_periods": [
+            {
+                "start_time": "2019-10-14 05:34",
+                "end_time": "2019-10-14 06:00"
+            },
+            {
+                "start_time": "2019-10-19 06:28",
+                "end_time": "2019-10-19 06:40"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C41",
+        "real_name": "Emily",
+        "tz": "America/Cayman",
+        "activity_periods": [
+            {
+                "start_time": "2019-10-24 06:59",
+                "end_time": "2019-10-24 07:24"
+            },
+            {
+                "start_time": "2019-10-26 07:53",
+                "end_time": "2019-10-26 08:12"
+            },
+            {
+                "start_time": "2019-10-27 08:28",
+                "end_time": "2019-10-27 08:36"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C42",
+        "real_name": "Chloe",
+        "tz": "America/Cordoba",
+        "activity_periods": [
+            {
+                "start_time": "2019-10-29 08:47",
+                "end_time": "2019-10-29 09:00"
+            },
+            {
+                "start_time": "2019-11-01 09:19",
+                "end_time": "2019-11-01 09:38"
+            },
+            {
+                "start_time": "2019-11-02 09:53",
+                "end_time": "2019-11-02 10:16"
+            },
+            {
+                "start_time": "2019-11-06 10:25",
+                "end_time": "2019-11-06 10:42"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C43",
+        "real_name": "Anna",
+        "tz": "America/Cuiaba",
+        "activity_periods": [
+            {
+                "start_time": "2019-11-07 10:48",
+                "end_time": "2019-11-07 11:07"
+            },
+            {
+                "start_time": "2019-11-10 11:29",
+                "end_time": "2019-11-10 11:54"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C44",
+        "real_name": "Hannah",
+        "tz": "America/Dawson_Creek",
+        "activity_periods": [
+            {
+                "start_time": "2019-11-15 12:04",
+                "end_time": "2019-11-15 12:13"
+            },
+            {
+                "start_time": "2019-11-20 12:23",
+                "end_time": "2019-11-20 12:50"
+            },
+            {
+                "start_time": "2019-11-24 13:06",
+                "end_time": "2019-11-24 13:33"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C45",
+        "real_name": "Isabella",
+        "tz": "America/Denver",
+        "activity_periods": [
+            {
+                "start_time": "2019-11-27 13:41",
+                "end_time": "2019-11-27 13:55"
+            },
+            {
+                "start_time": "2019-12-01 14:00",
+                "end_time": "2019-12-01 14:26"
+            },
+            {
+                "start_time": "2019-12-02 14:43",
+                "end_time": "2019-12-02 15:01"
+            },
+            {
+                "start_time": "2019-12-03 15:16",
+                "end_time": "2019-12-03 15:24"
+            }
+        ]
+    },
+    {
+        "id": "W012A3C46",
+        "real_name": "Elizabeth",
+        "tz": "America/Eirunepe",
+        "activity_periods": [
+            {
+                "start_time": "2019-12-04 15:42",
+                "end_time": "2019-12-04 15:58"
+            },
+            {
+                "start_time": "2019-12-08 16:09",
+                "end_time": "2019-12-08 16:24"
+            }
+        ]
+    }
+]
